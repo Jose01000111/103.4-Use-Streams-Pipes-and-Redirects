@@ -7,9 +7,9 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [EXAM OBJECTIVE 103.4](https://www.lpi.org/our-certifications/exam-101-102-objectives/#103.4_Use_streams.2C_pipes_and_redirects)
 
-[OBJ. 103.4 NOTES]()
+[OBJ. 103.4 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/EZFAqJ4AygJNoyWK5L8WntMBg83WBrSal9-79ujqVlu9pw?e=1xlQBw)
 
-[OBJ. 103.4 LAB]()
+[OBJ. 103.4 LAB](https://1drv.ms/w/c/354f1c8d534fbced/EQw6lhHw8zxBuUMgCLNk2GwByk9zaTFhOu5KwPYAphpzLw?e=9cbf6n)
 
 ---
 
