@@ -1,11 +1,19 @@
 # 🧪 Lab: 103.4 Use Streams, Pipes, and Redirects
 
-📘 What I did in this lab
+## 📘 What I did in this lab
 I explored how to redirect input and output, pipe data between commands, use command substitution with xargs, and duplicate output using tee. Each technique was tested with practical examples to reinforce its use.
 
+I’ve included some helpful links to guide you through the lab and for studying afterward:
 
+[EXAM OBJECTIVE 103.4](https://www.lpi.org/our-certifications/exam-101-102-objectives/#103.4_Use_streams.2C_pipes_and_redirects)
 
-1️⃣ Redirecting Standard Input, Output, and Error
+[OBJ. 103.4 NOTES]()
+
+[OBJ. 103.4 LAB]()
+
+---
+
+## 1️⃣ Redirecting Standard Input, Output, and Error
 
 🔹Redirect STDOUT to a file
 
@@ -15,23 +23,23 @@ I explored how to redirect input and output, pipe data between commands, use com
 
 🔹Redirect STDIN from a file
 
-2️⃣ Pipe the Output of One Command to the Input of Another
+## 2️⃣ Pipe the Output of One Command to the Input of Another
 
 🔹View only the first 5 lines of a directory listing
 
 🔹Count the number of .conf files in /etc
 
-3️⃣ Use the Output of One Command as Arguments to Another
+## 3️⃣ Use the Output of One Command as Arguments to Another
 
 🔹Delete all .bak files in a directory
 
 🔹Count the number of lines in each .txt file
 
-4️⃣ Send Output to Both STDOUT and a File
+## 4️⃣ Send Output to Both STDOUT and a File
 
 🔹List processes and save + view them simultaneously
 
 🔹Chain commands with tee and grep
 
-📒 What I Learned
+## 📒 What I Learned
 This lab taught me how to manipulate command output like a pro 💻, using redirection and pipes to automate tasks and chain tools efficiently. I also learned how tee and xargs can supercharge workflows by duplicating output or executing commands dynamically. 🧠🛠️
