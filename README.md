@@ -35,6 +35,10 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 🔹Count the number of lines in each .txt file
 
+> ⚠️ **Disclaimer:**  
+> I'm currently using **CentOS** 🐧 and my system does **not contain any `.bak` files** 📁 by default.  
+> Any examples or commands involving `.bak` files may need to be **adjusted** 🛠️ or **skipped** 🚫 accordingly.
+
 ## 4️⃣ Send Output to Both STDOUT and a File
 
 🔹List processes and save + view them simultaneously
